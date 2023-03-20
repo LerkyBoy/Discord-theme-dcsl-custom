@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://i.imgur.com/63g6Em8.jpg);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/278229311029510144/1020988722046586950/2945926.gif);
 
   /*
     Change your friends icon image position
@@ -96,14 +96,14 @@
   /*
     Small User Popout
   */
-  --small-user-popout-background-image: var(--theme-background-image);
+  --small-user-popout-background-image: url(https://cdn.discordapp.com/attachments/278229311029510144/1087502035638833162/20211218_171455.jpg);
   --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
   --small-user-popout-background-image-position: center;
 
   /*
     Big User Popout
   */
-  --big-user-popout-background-image: var(--theme-background-image);
+  --big-user-popout-background-image: url(https://cdn.discordapp.com/attachments/278229311029510144/1087502035638833162/20211218_171455.jpg);
   --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
   --big-user-popout-background-image-position: center;
 
