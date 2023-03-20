@@ -21,7 +21,7 @@
   /*
     Theme Background
   */
-  --theme-background-image: url(https://cdn.discordapp.com/attachments/278229311029510144/1087502035638833162/20211218_171455.jpg);
+  --theme-background-image: url(https://cdn.discordapp.com/attachments/278229311029510144/1087504480796430430/HD-wallpaper-my-little-pony-my-little-pony-equestria-girls-sunset-shimmer-sailor-moon.jpg);
 
   /*
     Main Theme Color
@@ -36,7 +36,7 @@
   /*
     Home Icon Image
   */
-  --home-icon-image: url(https://cdn.discordapp.com/attachments/278229311029510144/1020988722046586950/2945926.gif);
+  --home-icon-image: url(https://cdn.discordapp.com/attachments/278229311029510144/1087504325615554700/772.jpeg);
 
   /*
     Change your friends icon image position
@@ -96,14 +96,14 @@
   /*
     Small User Popout
   */
-  --small-user-popout-background-image: url(https://cdn.discordapp.com/attachments/278229311029510144/1087502035638833162/20211218_171455.jpg);
+  --small-user-popout-background-image: var(--theme-background-image);
   --small-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
   --small-user-popout-background-image-position: center;
 
   /*
     Big User Popout
   */
-  --big-user-popout-background-image: url(https://cdn.discordapp.com/attachments/278229311029510144/1087502035638833162/20211218_171455.jpg);
+  --big-user-popout-background-image: var(--theme-background-image);
   --big-user-popout-background-transparency: rgba(0, 0, 0, 0.6);
   --big-user-popout-background-image-position: center;
 
